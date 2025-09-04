@@ -29,7 +29,7 @@ void setupEmailOtp() {
     otpType: OTPType.numeric,
     otpLength: 6,
     expiry: 300000,
-    emailTheme: EmailTheme.v6,
+    emailTheme: EmailTheme.v4,
   );
-  // EmailOTP.setTemplate(template: otpEmailTemplate);
+  EmailOTP.setTemplate(template: otpEmailTemplate);
 }
