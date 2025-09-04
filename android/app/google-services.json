@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352751794172",
+    "project_id": "auth-b86c3",
+    "storage_bucket": "auth-b86c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352751794172:android:23a6111094a61bdea5a479",
+        "android_client_info": {
+          "package_name": "com.example.sms_autofill"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg13Iy8pyiiTF9ToiEjyjkdDWgoFRURZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
