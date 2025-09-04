@@ -90,7 +90,7 @@ class _OtpInputPageState extends State<OtpInputPage> {
                     ),
                     SizedBox(height: 8.h),
                     Text(
-                      "Nhập mã đã gửi tới email của bạn",
+                      "Nhập mã đã gửi tới email của bạn!",
                       textAlign: TextAlign.center,
                       style: TextStyle(color: Colors.black54, fontSize: 14.sp),
                     ),
